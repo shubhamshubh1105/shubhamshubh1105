@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham 👦
+# Hi there, I'm Shubham Saini 👦
 
 A passionate Full Stack Developer 🚀 from India.
 
@@ -18,7 +18,8 @@ A passionate Full Stack Developer 🚀 from India.
 ---
 
 ## 🧠 Skills
-HTML CSS JavaScript React.js  Django Python MySQL
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python,mysql,git)
 
 ---
 
