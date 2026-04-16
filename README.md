@@ -5,7 +5,7 @@ A passionate Full Stack Developer 🚀 from India.
 ---
 
 ## 👨‍💻 What I Do
-- Full Stack Developer (MERN + Django)
+- Full Stack Developer (Python + Django)
 - Learning new technologies daily
 - Building real-world projects
 
