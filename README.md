@@ -26,4 +26,5 @@ A passionate Full Stack Developer 🚀 from India.
 ## 🚀 Projects
 - Food Delivery Website 🍔
 - Job Portal 💼
-- E-commerce Website 🛒
+- Loan-Approval-Prediction-using-Machine-Learning
+ 🛒
